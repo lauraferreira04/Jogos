@@ -1,0 +1,1 @@
+gcc -Wall -o jogoDaVelha jogoDaVelha.c telag.c -lallegro_font -lallegro_color -lallegro_ttf -lallegro_primitives -lallegro
